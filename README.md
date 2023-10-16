@@ -1,17 +1,20 @@
-<h1>EasyVKApi</h1>
+# EasyVKApi
+
 EasyVKApi -- простая и легковесная библиотека для работы с VK API.
+
+## Ccылки
 
 [(Примеры)](https://github.com/realmurgyl/easyvkapi/tree/main/example)
 [(Документация VK API)](https://dev.vk.com/ru/reference)
 
+## Установка
 
-<h1>Установка</h1>
-```bash
-dart pub add easyvkapi
-```
+[pub](https://google.com)
 
-<h1>Примеры</h1>
-• Запросы к VK API
+## Примеры
+
+### VK Api
+
 ```dart
 import "package:easyvkapi/easyvkapi.dart";
 
@@ -25,7 +28,9 @@ void main() async {
 
 ```
 
-• LongPolling
+
+### Longpoll
+
 ```dart
 import 'package:easyvkapi/easyvkapi.dart';
 
