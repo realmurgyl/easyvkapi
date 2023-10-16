@@ -10,7 +10,7 @@ EasyVKApi - простая и легковесная библиотека для
 
 ## Установка
 
-[pub.dev](https://google.com)
+[pub.dev](https://pub.dev/packages/easyvkapi)
 
 ## Примеры
 
