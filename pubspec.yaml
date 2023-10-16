@@ -1,7 +1,7 @@
 name: easyvkapi
-description: A sample command-line application.
+description: The simplest library for working with VK.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/realmurgyl/easyvkapi
 
 environment:
   sdk: ^3.1.0
