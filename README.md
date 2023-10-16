@@ -1,15 +1,16 @@
 # EasyVKApi
 
-EasyVKApi -- простая и легковесная библиотека для работы с VK API.
+EasyVKApi - простая и легковесная библиотека для работы с VK API.
 
 ## Ccылки
 
-[(Примеры)](https://github.com/realmurgyl/easyvkapi/tree/main/example)
-[(Документация VK API)](https://dev.vk.com/ru/reference)
+[Примеры](https://github.com/realmurgyl/easyvkapi/tree/main/example)
+
+[Документация VK API](https://dev.vk.com/ru/reference)
 
 ## Установка
 
-[pub](https://google.com)
+[pub.dev](https://google.com)
 
 ## Примеры
 
