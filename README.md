@@ -1,8 +1,8 @@
 <h1>EasyVKApi</h1>
 EasyVKApi -- максимально простая и удобная (по моему мнению) библиотека для работы с VK API.
 
-• [Примеры](https://github.com/realmurgyl/easyvkapi/tree/main/example)
-• [Документация VK API](https://dev.vk.com/ru/reference)
+[Примеры](https://github.com/realmurgyl/easyvkapi/tree/main/example)
+[Документация VK API](https://dev.vk.com/ru/reference)
 
 
 <h1>Установка</h1>
